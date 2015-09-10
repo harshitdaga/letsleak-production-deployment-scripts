@@ -1,0 +1,14 @@
+DEV BUILD
+--------------------------------------------------
+VERSION .7
+DATE
+Sun Nov 23 21:31:15 IST 2014
+
+GIT COMMIT
+* commit 84192692376bf779cef2e1626424d0b8a96acfa8
+| Author: hd <harshit@Harshits-MacBook-Pro.local>
+| Date:   Fri Nov 7 23:22:18 2014 +0530
+| 
+|     Admin reminder account mail count and account stats
+
+

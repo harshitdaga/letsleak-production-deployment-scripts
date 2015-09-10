@@ -1,0 +1,114 @@
+body {
+    font-family: 'LatoLatinRegular', Arial, sans-serif;
+    /* font-family: 'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    /*font-family: 'Open Sans Condensed', sans-serif;*/
+    /*font-weight: 400;*/
+    font-size: 1.2em;
+    line-height: 1.8em;
+    outline: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /*-webkit-font-smoothing: subpixel-antialiased;*/
+    color: #3c3c3c;
+    background-color: #ffffff;
+    min-width: 320px;
+    overflow-x: auto;
+}
+.leak-logo-md {
+    background: url("../images/leak_logo_2.png") center center;
+    background-size: cover;
+    width: 137px;
+    height: 96px;
+}
+@media screen and (max-width: 570px) {
+    .coming-soon-bg .container .leak-logo-md {
+        margin: 17% auto 0 !important;
+        display: block !important;
+        width: 100px;
+        height: 70px;
+    }
+    .coming-soon-bg .container .text {
+        width: 90% !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .coming-soon-bg .container .leak-logo-md {
+        margin: 8% auto 0;
+    }
+    .coming-soon-bg .container .text {
+        width: 100%;
+    }
+    .coming-soon-bg .container .text h1 {
+        font-size: 1.0em;
+        font-weight: bold;
+    }
+    .coming-soon-bg .container .text span {
+        font-size: .9em;
+        display: block;
+        line-height: 25px;
+    }
+}
+.coming-soon-bg {
+    width: 100%;
+    height: inherit;
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #f9fdff; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  #ffffff 0%, #aadeff 100%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#ffffff), color-stop(100%,#aadeff)); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  #ffffff 0%,#aadeff 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,  #ffffff 0%,#aadeff 100%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover,  #ffffff 0%,#aadeff 100%); /* IE10+ */
+    background: radial-gradient(ellipse at center,  #ffffff 0%,#aadeff 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#aadeff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    position: fixed;
+    background-position-y: -200px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.coming-soon-bg .container {
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: url("../images/coming-soon-top-shapes.png") no-repeat top center;
+    text-align: center;
+    position: absolute;
+    top: 0;
+}
+.coming-soon-bg .container .leak-logo-md {
+    margin: 8% auto 0;
+}
+.coming-soon-bg .container .text {
+    width: 50%;
+    margin: auto;
+}
+.coming-soon-bg .container .text h1 {
+    font-size: 1.0em;
+    font-weight: bold;
+}
+.coming-soon-bg .container .text span {
+    font-size: .9em;
+    display: block;
+    line-height: 25px;
+}
+.coming-soon-bg .container a {
+    display: block;
+    cursor: default;
+}
+.coming-soon-txt {
+    width: 100%;
+    height: 45px;
+    display: block;
+    margin: 10% auto;
+    /*background: url("../images/coming-soon-txt.png") no-repeat center center;*/
+    background-size: cover;
+    webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+}

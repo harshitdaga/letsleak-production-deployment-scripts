@@ -1,0 +1,7 @@
+.idea
+*.log
+/logs
+/log
+/codebase
+/snapshot
+/bundle

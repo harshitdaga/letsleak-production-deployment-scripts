@@ -1,0 +1,191 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "407b9517c6f222b9604874bfb9d345df9ebdb437.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/407b9517c6f222b9604874bfb9d345df9ebdb437.js",
+      "size": 645542,
+      "hash": "407b9517c6f222b9604874bfb9d345df9ebdb437"
+    },
+    {
+      "path": "68826afa345088b013d43b27a3539410cdd7612d.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/68826afa345088b013d43b27a3539410cdd7612d.css?meteor_css_resource=true",
+      "size": 253432,
+      "hash": "68826afa345088b013d43b27a3539410cdd7612d"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.eot",
+      "size": 40166,
+      "hash": "f5e824186bc1d712d5703c872135ef0e786cabf8"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.svg",
+      "size": 64121,
+      "hash": "144958374a5b188939a4ef8a578ba46ffdc8ba61"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.ttf",
+      "size": 39924,
+      "hash": "aa384f8e70fe7d54b7ed05ecd2c2ec13a01fad77"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/basic.icons.woff",
+      "size": 24676,
+      "hash": "6ec5c193dd77b2c65af67806c13b83384ff617c9"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.eot",
+      "size": 37405,
+      "hash": "d7e77928069bdd227f291b9a2c9bdd918793e529"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.otf",
+      "size": 61896,
+      "hash": "82a7ff73f96e2f6ef419d2d9fd520b4c93bdae7c"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.svg",
+      "size": 197829,
+      "hash": "8419c95027e27da84c7d7aa4df7f61d1dd04af81"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.ttf",
+      "size": 79076,
+      "hash": "c019e0e02b24f99ca8eef73cfe3d134e904f323a"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/fonts/icons.woff",
+      "size": 43572,
+      "hash": "12f8c193902e99348493ace32e498031bf79b654"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-large-inverted.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-large-inverted.gif",
+      "size": 10168,
+      "hash": "6f09544fe0b6e2fe57a4f2d9487cfee183d2fffe"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-large.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-large.gif",
+      "size": 8492,
+      "hash": "bb9b0f2f1a67dbd00edf250517cbb0a0efac66d5"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-medium-inverted.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-medium-inverted.gif",
+      "size": 5384,
+      "hash": "5df5395b7f5f72e2b0f59c3901e677f7e80b6c53"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-medium.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-medium.gif",
+      "size": 4472,
+      "hash": "ac6ae1785858b42f3bb99c20f0ac7ca0ed503e85"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-mini-inverted.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-mini-inverted.gif",
+      "size": 2722,
+      "hash": "fdede2a0f465d7119c8bc04c82db4a49a4944657"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-mini.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-mini.gif",
+      "size": 2548,
+      "hash": "7455fdbfe313e7aaa96cdb7fa561fb923b3bf7bc"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-small-inverted.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-small-inverted.gif",
+      "size": 4241,
+      "hash": "bac72b19ee2aa0edea93693943e950c783ad5fa2"
+    },
+    {
+      "path": "packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-small.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/nooitaf_semantic-ui/lib/semantic-ui/build/uncompressed/images/loader-small.gif",
+      "size": 3447,
+      "hash": "ebaa2d25a006d16e1bd0c09b078865b9cbc0ca92"
+    },
+    {
+      "path": "packages/alethes_pages/public/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/alethes_pages/public/loader.gif",
+      "size": 3208,
+      "hash": "313b867d11fc0dd6bc6ca47c334bbcf18956ca76"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "129246d395838eadda58f2aceb2e2e4729124290"
+    }
+  ]
+}

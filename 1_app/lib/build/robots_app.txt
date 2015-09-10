@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+Allow: /whyLetsLeak
+Allow: /GroundRules
+Allow: /FAQs
+Allow: /TnC
+Allow: /Privacy
+Allow: /ContactUs
